@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+models/*
+!models/.gitkeep
+data/*
+!data/.gitkeep
+*.ckpt
+*.safetensors
+*.bin
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
+.DS_Store

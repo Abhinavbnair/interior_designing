@@ -1,0 +1,42 @@
+[
+  {
+    "case_id": "tc01",
+    "instruction": "Convert this into a modern luxury bedroom. Keep the existing bed and window positions. Use cream-colored walls, wooden furniture, warm lighting, and do not add a television."
+  },
+  {
+    "case_id": "tc02",
+    "instruction": "Redesign this as a minimalist Scandinavian bedroom with white walls, light oak furniture, and soft natural daylight. Keep the window where it is. No dark colors and no clutter."
+  },
+  {
+    "case_id": "tc03",
+    "instruction": "Make this an industrial-style loft bedroom with exposed brick walls, black metal furniture, and moody lighting. Preserve the room layout. Do not add plants."
+  },
+  {
+    "case_id": "tc04",
+    "instruction": "Turn this into a warm bohemian bedroom with terracotta walls, rattan furniture, layered textiles, and two bedside lamps. Keep the bed position. No television and no mirrors."
+  },
+  {
+    "case_id": "tc05",
+    "instruction": "Convert this into a contemporary Japanese-style bedroom with beige walls, low wooden furniture, paper lantern lighting, and a tatami-style floor. Keep the window. Do not add a chandelier."
+  },
+  {
+    "case_id": "tc06",
+    "instruction": "Redesign as a coastal bedroom with pale blue walls, whitewashed wood furniture, and bright airy lighting. Preserve the window and bed positions. No heavy curtains and no dark wood."
+  },
+  {
+    "case_id": "tc07",
+    "instruction": "Make this an art-deco bedroom with emerald green walls, brass accents, velvet upholstery, and glamorous warm lighting. Keep the room structure. Do not add a ceiling fan."
+  },
+  {
+    "case_id": "tc08",
+    "instruction": "Transform this into a rustic farmhouse bedroom with whitewashed shiplap walls, reclaimed wood furniture, and soft warm lighting. Keep the bed and window where they are. No modern electronics."
+  },
+  {
+    "case_id": "tc09",
+    "instruction": "Redesign as a mid-century modern bedroom with warm walnut furniture, mustard and olive accents, and a single statement pendant light. Preserve the layout. Do not add a television or a desk."
+  },
+  {
+    "case_id": "tc10",
+    "instruction": "Convert this into a serene spa-like bedroom with soft grey walls, natural stone textures, linen bedding, and diffuse ambient lighting. Keep the window position. No bright colors and no artwork."
+  }
+]
